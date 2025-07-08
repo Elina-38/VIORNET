@@ -1,1 +1,5 @@
 Flask>=2.0.0
+Flask-SQLAlchemy>=2.5.1
+Flask-Migrate>=3.1.0
+routeros-api-python>=0.12.0
+# Using routeros-api-python as the chosen library for RouterOS API communication
